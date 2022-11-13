@@ -1,4 +1,4 @@
-# for Python and pandas_portifolio():
+# Python pandas_portifolio():
 Projeto simples de análise de dados utilizando a biblioteca pandas no python.
 Utilizando Google Colab e o Github para melhor experiencia de visualização.
 
